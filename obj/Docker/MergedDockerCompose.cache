@@ -1,0 +1,11 @@
+services:
+  ordershenriquesd:
+    build:
+      context: C:\Users\Henrique\Desktop\OrdersHenriqueSD-master
+      dockerfile: OrdersHenriqueSD/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ordershenriquesd
+    ports:
+    - 80/tcp
+version: '3.0'
