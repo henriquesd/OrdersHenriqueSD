@@ -109,8 +109,8 @@ Example of descending sort:
 
 {
     "id": 3,
-    "name": "aaaaaaaa",
-    "description": "Galaaaaxy Tab",
+    "name": "Smartphone",
+    "description": "Galaxy S8",
     "price": 10,
     "creationDate": "2018-01-22T17:42:10.7223334-03:00",
 }
